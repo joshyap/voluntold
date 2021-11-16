@@ -11,8 +11,7 @@
     justify-content: center;
 }
 
-.main {
-    border: 1px solid red;
+.main {    
     height: 90vh;
     width: 100vw;
     display: flex;
