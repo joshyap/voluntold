@@ -1,15 +1,16 @@
 let peeps = [
-    'cheyne',
-    'court',
-    'cory',
-    'edwin',
-    'hamilton',
-    'jarrett',
-    'jeff',
-    'mario',
-    'nick',
-    'yasir',
-    'yohans'
+//     'cheyne',
+//     'court',
+//     'cory',
+//     'edwin',
+//     'hamilton',
+//     'jarrett',
+//     'jeff',
+//     'mario',
+//     'nick',
+//     'yasir',
+//     'yohans',
+    'josh'
 ];
 
 function choose() {
