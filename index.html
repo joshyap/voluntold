@@ -6,14 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VolunTOLD</title>
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.plot.ly/plotly-2.14.0.min.js"></script>
 </head>
 <body>
-    <h1 class="header">Voluntold</h1>
-    <div class="main">        
-        <img src="tribute.gif" alt="katniss volunteering as tribute">
-        <h1 id="winner">who will it be?</h1>
-        <button onclick="choose()">pick</button>
-    </div>
+    <nav class="header">
+        <h1>Voluntold</h1>
+        <h3><i>may the odds be ever in your favor</i></h3>
+    </nav>
+    <main>
+        <section class="left">
+            <img src="tribute.gif" alt="katniss volunteering as tribute">
+            <br>
+            <h1 id="winner">who will it be?</h1>
+            <br>
+            <button onclick="plot()">pick</button>
+        </section>
+        <section class="right">
+            <div id="chart"></div>
+        </section>
+    </main>    
     <script src="app.js"></script>
 </body>
 </html>
