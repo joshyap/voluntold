@@ -10,28 +10,20 @@ let layout = {
   };
 
 let peeps = [
-    ['Dorsa', 0],
-    ['Edwin', 0],
-    ['Emre', 0],
-    ['Frederick', 0],
-    ['Greg H.', 0],
-    ['Gregory W.', 0],
-    ['Haylee', 0],
-    ['Heather', 0],
-    ['Horacio', 0],
-    ['Jacob G.', 0],
-    ['Jacob W.', 0],
-    ['Jake L.', 0],
-    ['Jake S.', 0],
-    ['James C.', 0],
-    ['James K.', 0],
-    ['Janvier', 0],
-    ['Jared', 0],
-    ['Jennifer', 0],
-    ['Jeremy', 0],
-    ['John J.', 0],
+    ['Candice Radam', 0],
+    ['Daniel Miller', 0],
+    ['Diana Macias castillo', 0],
+    ['Frederick Hubbard', 0],
+    ['Jake Liefschultz', 0],
+    ['James Carter', 0],
+    ['Jared Kim', 0],
     ['John Weaver', 0],
-    ['John Wilkins', 0]
+    ['Joseph Sandoval', 0],
+    ['Merrin Abraham', 0],
+    ['Sammy Davis', 0],
+    ['Seth Daulton', 0],
+    ['Sid Gray', 0],
+    ['Sonia Marcinek', 0]
 ];
 
 
