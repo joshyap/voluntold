@@ -23,8 +23,7 @@ let peeps = [
     ['Sammy Davis', 0],
     ['Seth Daulton', 0],
     ['Sid Gray', 0],
-    ['Sonia Marcinek', 0],
-    ['Cheryl Perry', 0]
+    ['Sonia Marcinek', 0]
 ];
 
 
